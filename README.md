@@ -34,7 +34,7 @@ IBM-Employee-Attrition-Analysis/
 └── README.md               # Project overview
 
 # Results
-The Random Forest model achieved ~87% accuracy after SMOTE and GridSearchCV optimization. Visualizations highlight overtime, commute distance, job satisfaction, and income as key attrition drivers, guiding HR strategies for retention. 
+The Random Forest model achieved ~87% accuracy after SMOTE and GridSearchCV optimization. Visualizations highlight overtime, commute distance, job satisfaction, and income as key attrition drivers, guiding HR strategies for retention. 🚀
 
 # Acknowledgments
 
