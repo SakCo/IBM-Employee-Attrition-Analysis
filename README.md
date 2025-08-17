@@ -39,5 +39,5 @@ The Random Forest model achieved ~87% accuracy after SMOTE and GridSearchCV opti
 # Acknowledgments
 
 Dataset provided by Kaggle.
-Built with open-source libraries: Pandas, Scikit-learn, Matplotlib, and Seaborn.
+Built with open-source libraries: Pandas, Scikit-learn, Matplotlib, and Seaborn
 
