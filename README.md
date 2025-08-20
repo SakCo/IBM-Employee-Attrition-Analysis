@@ -13,7 +13,7 @@ Feature Engineering: Created new features and applied feature selection techniqu
 Modeling: Implemented machine learning models, including Logistic Regression, Decision Trees, and Random Forest, with hyperparameter tuning via GridSearchCV.
 Evaluation: Measured model performance using precision, recall, F1-score, and AUC-ROC to ensure robust and reliable predictions.
 
-# Key Findings...
+# Key Findings
 
 Overtime Impact: Employees working overtime face a higher likelihood of leaving, likely due to increased workplace stress or work-life imbalance.
 Commute Distance: Longer distances from home to work correlate with higher attrition rates, possibly due to commuting fatigue.
