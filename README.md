@@ -3,7 +3,7 @@
 # Overview
 This project analyzes the IBM HR Analytics Employee Attrition & Performance dataset to identify factors driving employee attrition. The dataset, a fictional creation by IBM data scientists, contains 1,470 employee records with 35 features, including age, job role, monthly income, and job satisfaction. By applying data science techniques, this analysis provides actionable insights to help HR professionals reduce turnover and improve retention strategies.
 
-# Objective...
+# Objective
 The goal is to predict employee attrition (the rate at which employees leave an organization) and uncover correlations between features such as distance from home, job role, and income with attrition. These insights enable organizations to proactively address turnover risks and optimize workforce management.
 Methodology
 
